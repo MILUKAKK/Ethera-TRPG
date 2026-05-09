@@ -1,0 +1,13 @@
+# Claude 本地配置（不提交私人的 settings.local.json）
+# 如需提交团队共享配置，使用 settings.json
+.claude/settings.local.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*~

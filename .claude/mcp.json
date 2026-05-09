@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ethera-engine": {
+      "command": "C:\\Users\\a2424\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+      "args": [
+        "F:\\OneDrive\\文档\\类地星球\\mcp-ethera\\server.py"
+      ],
+      "env": {
+        "WORLD_ROOT": "F:\\OneDrive\\文档\\类地星球"
+      }
+    }
+  }
+}
